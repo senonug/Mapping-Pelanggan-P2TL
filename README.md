@@ -17,7 +17,7 @@ streamlit run streamlit_app.py
 ## ☁️ Deploy ke Streamlit Cloud
 1. Fork / push repo ini ke GitHub.
 2. Di Streamlit Cloud, pilih repo dan file utama `streamlit_app.py`.
-3. Biarkan `requirements.txt` default.
+3. Python version akan mengikuti `runtime.txt`.
 
 ## 📄 Format Data
 Minimal kolom:
